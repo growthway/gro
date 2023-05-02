@@ -1,1 +1,2 @@
-# gro project
+# gro PROJECT
+
